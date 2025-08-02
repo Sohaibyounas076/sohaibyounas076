@@ -2,8 +2,9 @@
 # 💫 About Me:
 I hold a Bachelor’s degree in Computer Science and currently work as a Police Station Assistant (PSA) in Punjab Police, where I handle data entry and administrative tasks. Alongside my job, I continue to grow my freelancing career with dedication and professionalism.<br><br>I am a WordPress developer with 3+ years of experience, specializing in WordPress, Elementor Pro, Wix, Shopify, HTML, CSS, and theme customization. I’ve successfully delivered projects for various clients, working with companies and freelancing on platforms like Upwork, Fiverr, and LinkedIn. My expertise ensures the creation of high-quality, responsive, and visually appealing websites tailored to meet client needs.
 <br><br>
-[![Portfolio](https://img.shields.io/badge/Portfolio–green?style=for-the-badge)](https://sohaibyounas076.github.io/portfolio/)
-[![CV](https://img.shields.io/badge/CV–blue?style=for-the-badge)](https://your-cv-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-28a745?logo=google-chrome&logoColor=white&style=for-the-badge)](https://sohaibyounas076.github.io/portfolio/)
+[![CV](https://img.shields.io/badge/CV-0976b4?logo=adobe-acrobat-reader&logoColor=white&style=for-the-badge)](https://yourdomain.com/your-cv.pdf)
+
 
 
 
