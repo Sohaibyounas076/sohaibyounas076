@@ -1,6 +1,11 @@
 ![logo](https://github.com/Sohaibyounas076/sohaibyounas076/blob/main/new%20banner.png?raw=true)
 # 💫 About Me:
-I hold a Bachelor’s degree in Computer Science and currently work as a Police Station Assistant (PSA) in Punjab Police, where I handle data entry and administrative tasks. Alongside my job, I continue to grow my freelancing career with dedication and professionalism.<br><br>I am a WordPress developer with 3+ years of experience, specializing in WordPress, Elementor Pro, Wix, Shopify, HTML, CSS, and theme customization. I’ve successfully delivered projects for various clients, working with companies and freelancing on platforms like Upwork, Fiverr, and LinkedIn. My expertise ensures the creation of high-quality, responsive, and visually appealing websites tailored to meet client needs.
+I'm Sohaib Younas, a Bachelor of Computer Science graduate. My core technical skills include HTML5, CSS3, Bootstrap 5, PHP, and SEO. I specialize in CMS platform-based development & designing using WordPress, Wix, and Shopify.
+
+I am currently employed as a Police Station Assistant (PSA) with the Punjab Police, managing data entry and administrative tasks. Alongside my full-time role, I am diligently building a part-time freelancing career, committed to professionalism and excellence.
+
+As a Web Designer and Developer with over 3 years of experience, I offer end-to-end solutions. My expertise spans custom coding (HTML, CSS3, Bootstrap 5) to powerful platform ecosystems like WordPress, where I am an expert in key plugins such as Elementor Pro and WooCommerce. I am also proficient in Wix, Shopify, and comprehensive SEO (on-page & off-page). I have successfully delivered projects for a diverse range of clients, working both with companies and as a freelancer on platforms like Upwork, Fiverr, and LinkedIn. My focus is on creating high-quality, responsive, and visually appealing websites that are perfectly tailored to client needs.
+
 <br><br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-28a745?logo=google-chrome&logoColor=white&style=for-the-badge)](https://sohaibyounas076.github.io/portfolio/)
 [![CV](https://img.shields.io/badge/CV-0976b4?logo=adobe-acrobat-reader&logoColor=white&style=for-the-badge)](https://drive.google.com/file/d/1UQlgUPenem7LinJ3d9zI_Zh1u5H7lXzz/view?usp=sharing)
